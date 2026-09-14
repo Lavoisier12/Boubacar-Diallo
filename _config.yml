@@ -1,6 +1,8 @@
-title: "Boubacar Diallo"
-logo: img/nny.jpg
-description: "Portfolio Data scientist IA, Data scientist & Analyst, Formation
+title: Boubacar Diallo
+logo: /img/nny.jpg
+description: >
+  Portfolio Data Scientist IA, Data Scientist & Analyst,
+  Formation et projets en intelligence artificielle et data.
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
